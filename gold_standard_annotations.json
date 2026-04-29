@@ -1,0 +1,325 @@
+[
+  {
+    "ecli": "ECLI:NL:RBDHA:2025:8235",
+    "annotations": [
+      {
+        "span": "artikel 6:22 van de Algemene wet bestuursrecht",
+        "label": "BWB",
+        "start": 4668,
+        "end": 4714
+      },
+      {
+        "span": "artikel 6.4 en artikel 6.5 van het Voorschrift Vreemdelingen 2000",
+        "label": "BWB",
+        "start": 4865,
+        "end": 4930
+      },
+      {
+        "span": "Besluit proceskosten bestuursrecht",
+        "label": "BWB",
+        "start": 7414,
+        "end": 7448
+      },
+      {
+        "span": "ECLI:NL:RVS:2007:AZ9588",
+        "label": "ECLI",
+        "start": 8732,
+        "end": 8755
+      }
+    ],
+    "n_annotations": 4
+  },
+  {
+    "ecli": "ECLI:NL:OGAACMB:2017:68",
+    "annotations": [
+      {
+        "span": "artikel 4, aanhef en onder b, van de Landsverordening materieel ambtenarenrecht (Lma)",
+        "label": "BWB",
+        "start": 1864,
+        "end": 1949
+      },
+      {
+        "span": "RvBAz 2014/71419",
+        "label": "ECLI",
+        "start": 2207,
+        "end": 2223
+      },
+      {
+        "span": "RvBAz 2015/74637",
+        "label": "ECLI",
+        "start": 2250,
+        "end": 2266
+      },
+      {
+        "span": "artikel 4, derde lid, aanhef en onder b, van de BRA",
+        "label": "BWB",
+        "start": 5058,
+        "end": 5109
+      },
+      {
+        "span": "Bezoldigingsregeling Aruba 1986 (BRA)",
+        "label": "BWB",
+        "start": 4892,
+        "end": 4929
+      },
+      {
+        "span": "artikel 89",
+        "label": "BWB",
+        "start": 6558,
+        "end": 6568
+      },
+      {
+        "span": "art. 97, eerste lid, LA",
+        "label": "BWB",
+        "start": 6598,
+        "end": 6621
+      },
+      {
+        "span": "art. 98, eerste lid, LA",
+        "label": "BWB",
+        "start": 7072,
+        "end": 7095
+      },
+      {
+        "span": "art. 98, tweede lid, LA",
+        "label": "BWB",
+        "start": 7227,
+        "end": 7250
+      }
+    ],
+    "n_annotations": 9
+  },
+  {
+    "ecli": "ECLI:NL:RBSGR:2012:BW2477",
+    "annotations": [],
+    "n_annotations": 0
+  },
+  {
+    "ecli": "ECLI:NL:RBDHA:2021:16863",
+    "annotations": [
+      {
+        "span": "NL21.17027",
+        "label": "ECLI",
+        "start": 84,
+        "end": 94
+      },
+      {
+        "span": "NL21.17026",
+        "label": "ECLI",
+        "start": 980,
+        "end": 990
+      }
+    ],
+    "n_annotations": 2
+  },
+  {
+    "ecli": "ECLI:NL:RBDHA:2025:4857",
+    "annotations": [
+      {
+        "span": "artikel 59b, eerste lid, aanhef en onder b en onder c, van de Vreemdelingenwet 2000",
+        "label": "BWB",
+        "start": 581,
+        "end": 664
+      },
+      {
+        "span": "Vw 2000",
+        "label": "BWB",
+        "start": 666,
+        "end": 673
+      },
+      {
+        "span": "artikel 5.1b, derde en vierde lid, van het Vreemdelingenbesluit 2000",
+        "label": "BWB",
+        "start": 1564,
+        "end": 1632
+      },
+      {
+        "span": "Vb 2000",
+        "label": "BWB",
+        "start": 1634,
+        "end": 1641
+      },
+      {
+        "span": "hoofdstuk 4 van het Vb 2000",
+        "label": "BWB",
+        "start": 2707,
+        "end": 2734
+      },
+      {
+        "span": "ABRvS 25 maart 2020; ECLI:NL:RVS:2020:829",
+        "label": "ECLI",
+        "start": 5545,
+        "end": 5586
+      },
+      {
+        "span": "ABRvS 26 juli 2023, ECLI:NL:RVS:2023:2829",
+        "label": "ECLI",
+        "start": 5600,
+        "end": 5641
+      }
+    ],
+    "n_annotations": 7
+  },
+  {
+    "ecli": "ECLI:NL:RBNNE:2024:4711",
+    "annotations": [
+      {
+        "span": "artikel 14 Wet op belastingen rechtsverkeer (WBR)",
+        "label": "BWB",
+        "start": 6514,
+        "end": 6563
+      },
+      {
+        "span": "artikel 15a, vijfde lid, WBR",
+        "label": "BWB",
+        "start": 8366,
+        "end": 8394
+      },
+      {
+        "span": "artikel 67c van de Algemene wet inzake rijksbelastingen",
+        "label": "BWB",
+        "start": 11625,
+        "end": 11680
+      },
+      {
+        "span": "Paragraaf 24 van het Besluit Bestuurlijke Boeten Belastingdienst",
+        "label": "BWB",
+        "start": 11822,
+        "end": 11886
+      },
+      {
+        "span": "ECLI:NL:HR:2017:638",
+        "label": "ECLI",
+        "start": 16153,
+        "end": 16172
+      },
+      {
+        "span": "ECLI:NL:HR:2020:970",
+        "label": "ECLI",
+        "start": 16213,
+        "end": 16232
+      },
+      {
+        "span": "ECLI:NL:HR:2007:BA7184",
+        "label": "ECLI",
+        "start": 16279,
+        "end": 16301
+      }
+    ],
+    "n_annotations": 7
+  },
+  {
+    "ecli": "ECLI:NL:RVS:2025:2901",
+    "annotations": [
+      {
+        "span": "artikel 8:54, eerste lid, van de Algemene wet bestuursrecht",
+        "label": "BWB",
+        "start": 143,
+        "end": 202
+      },
+      {
+        "span": "ECLI:NL:RVS:2025:258",
+        "label": "ECLI",
+        "start": 1416,
+        "end": 1436
+      },
+      {
+        "span": "ECLI:NL:RVS:2025:789",
+        "label": "ECLI",
+        "start": 1459,
+        "end": 1479
+      }
+    ],
+    "n_annotations": 3
+  },
+  {
+    "ecli": "ECLI:NL:RBARN:2006:3841",
+    "annotations": [
+      {
+        "span": "tussenvonnis van 22 februari 2006",
+        "label": "ECLI",
+        "start": 911,
+        "end": 944
+      },
+      {
+        "span": "deskundigenbericht",
+        "label": "ECLI",
+        "start": 959,
+        "end": 977
+      }
+    ],
+    "n_annotations": 2
+  },
+  {
+    "ecli": "ECLI:NL:RBDHA:2025:13255",
+    "annotations": [
+      {
+        "span": "artikel 8:54, eerste lid, van de Awb",
+        "label": "BWB",
+        "start": 1058,
+        "end": 1094
+      },
+      {
+        "span": "Artikel 8:1 van de Awb",
+        "label": "BWB",
+        "start": 1166,
+        "end": 1188
+      },
+      {
+        "span": "artikel 7:1 van de Awb",
+        "label": "BWB",
+        "start": 1304,
+        "end": 1326
+      },
+      {
+        "span": "artikel 6:15 van de Awb",
+        "label": "BWB",
+        "start": 1697,
+        "end": 1720
+      },
+      {
+        "span": "Richtlijn 2001/55/EG van de Raad van 20 juli 2001",
+        "label": "CELEX",
+        "start": 2860,
+        "end": 2909
+      },
+      {
+        "span": "Uitvoeringsbesluit (EU) 2022/382 van de Raad van 4 maart 2022",
+        "label": "CELEX",
+        "start": 3222,
+        "end": 3283
+      },
+      {
+        "span": "artikel 5 van Richtlijn2001/55/EG",
+        "label": "CELEX",
+        "start": 3385,
+        "end": 3418
+      },
+      {
+        "span": "Algemene wet bestuursrecht",
+        "label": "BWB",
+        "start": 3500,
+        "end": 3526
+      }
+    ],
+    "n_annotations": 8
+  },
+  {
+    "ecli": "ECLI:NL:CBB:2025:206",
+    "annotations": [
+      {
+        "span": "artikel 4:6 van de Awb",
+        "label": "BWB",
+        "start": 2851,
+        "end": 2873
+      },
+      {
+        "span": "ECLI:NL:CBB:2025:71",
+        "label": "ECLI",
+        "start": 2937,
+        "end": 2956
+      }
+    ],
+    "n_annotations": 2
+  }
+]
