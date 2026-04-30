@@ -15,16 +15,16 @@
         "end": 4930
       },
       {
-        "span": "Besluit proceskosten bestuursrecht",
-        "label": "BWB",
-        "start": 7414,
-        "end": 7448
-      },
-      {
         "span": "ECLI:NL:RVS:2007:AZ9588",
         "label": "ECLI",
         "start": 8732,
         "end": 8755
+      },
+      {
+        "span": "Besluit proceskosten bestuursrecht",
+        "label": "BWB",
+        "start": 7414,
+        "end": 7448
       }
     ],
     "n_annotations": 4
@@ -57,12 +57,6 @@
         "end": 5109
       },
       {
-        "span": "Bezoldigingsregeling Aruba 1986 (BRA)",
-        "label": "BWB",
-        "start": 4892,
-        "end": 4929
-      },
-      {
         "span": "artikel 89",
         "label": "BWB",
         "start": 6558,
@@ -87,7 +81,7 @@
         "end": 7250
       }
     ],
-    "n_annotations": 9
+    "n_annotations": 8
   },
   {
     "ecli": "ECLI:NL:RBSGR:2012:BW2477",
@@ -98,19 +92,13 @@
     "ecli": "ECLI:NL:RBDHA:2021:16863",
     "annotations": [
       {
-        "span": "NL21.17027",
-        "label": "ECLI",
-        "start": 84,
-        "end": 94
-      },
-      {
         "span": "NL21.17026",
         "label": "ECLI",
         "start": 980,
         "end": 990
       }
     ],
-    "n_annotations": 2
+    "n_annotations": 1
   },
   {
     "ecli": "ECLI:NL:RBDHA:2025:4857",
@@ -170,6 +158,18 @@
         "end": 6563
       },
       {
+        "span": "artikel 14 WBR",
+        "label": "BWB",
+        "start": 6635,
+        "end": 6649
+      },
+      {
+        "span": "Artikel 15a, vijfde lid, WBR",
+        "label": "BWB",
+        "start": 7069,
+        "end": 7097
+      },
+      {
         "span": "artikel 15a, vijfde lid, WBR",
         "label": "BWB",
         "start": 8366,
@@ -188,25 +188,25 @@
         "end": 11886
       },
       {
-        "span": "ECLI:NL:HR:2017:638",
+        "span": "Hoge Raad 21 april 2017, ECLI:NL:HR:2017:638",
         "label": "ECLI",
-        "start": 16153,
+        "start": 16128,
         "end": 16172
       },
       {
-        "span": "ECLI:NL:HR:2020:970",
+        "span": "Hoge Raad 29 mei 2020, ECLI:NL:HR:2020:970",
         "label": "ECLI",
-        "start": 16213,
+        "start": 16190,
         "end": 16232
       },
       {
-        "span": "ECLI:NL:HR:2007:BA7184",
+        "span": "Hoge Raad 15 juni 2007, ECLI:NL:HR:2007:BA7184",
         "label": "ECLI",
-        "start": 16279,
+        "start": 16255,
         "end": 16301
       }
     ],
-    "n_annotations": 7
+    "n_annotations": 9
   },
   {
     "ecli": "ECLI:NL:RVS:2025:2901",
@@ -234,21 +234,8 @@
   },
   {
     "ecli": "ECLI:NL:RBARN:2006:3841",
-    "annotations": [
-      {
-        "span": "tussenvonnis van 22 februari 2006",
-        "label": "ECLI",
-        "start": 911,
-        "end": 944
-      },
-      {
-        "span": "deskundigenbericht",
-        "label": "ECLI",
-        "start": 959,
-        "end": 977
-      }
-    ],
-    "n_annotations": 2
+    "annotations": [],
+    "n_annotations": 0
   },
   {
     "ecli": "ECLI:NL:RBDHA:2025:13255",
@@ -321,5 +308,592 @@
       }
     ],
     "n_annotations": 2
+  },
+  {
+    "ecli": "ECLI:NL:RBMNE:2025:3365",
+    "annotations": [
+      {
+        "span": "artikel 2:23b lid 1 BW",
+        "label": "BWB",
+        "start": 7345,
+        "end": 7367
+      },
+      {
+        "span": "Artikel 2:301 lid 1 onder b BW",
+        "label": "BWB",
+        "start": 9626,
+        "end": 9656
+      },
+      {
+        "span": "Artikel 2:19 lid 1 onder f en lid 3 BW",
+        "label": "BWB",
+        "start": 9784,
+        "end": 9822
+      }
+    ],
+    "n_annotations": 3
+  },
+  {
+    "ecli": "ECLI:NL:RBROT:2025:9263",
+    "annotations": [
+      {
+        "span": "artikel 237 Rv",
+        "label": "BWB",
+        "start": 7902,
+        "end": 7916
+      },
+      {
+        "span": "artikel 233 Rv",
+        "label": "BWB",
+        "start": 8460,
+        "end": 8474
+      },
+      {
+        "span": "artikel 558 Rv",
+        "label": "BWB",
+        "start": 9238,
+        "end": 9252
+      }
+    ],
+    "n_annotations": 3
+  },
+  {
+    "ecli": "ECLI:NL:RBDHA:2024:22663",
+    "annotations": [
+      {
+        "span": "artikel 552a juncto artikel 5.4.10 van het Wetboek van Strafvordering (Sv)",
+        "label": "BWB",
+        "start": 257,
+        "end": 331
+      },
+      {
+        "span": "artikel 552a Sv",
+        "label": "BWB",
+        "start": 1007,
+        "end": 1022
+      },
+      {
+        "span": "artikel 5.4.10, derde lid, juncto artikel 552a, vierde lid, Sv",
+        "label": "BWB",
+        "start": 4177,
+        "end": 4239
+      },
+      {
+        "span": "artikel 5.4.10 Sv",
+        "label": "BWB",
+        "start": 4476,
+        "end": 4493
+      },
+      {
+        "span": "HR 6 februari 2024, ECLI:NL:HR:2024:177",
+        "label": "ECLI",
+        "start": 5137,
+        "end": 5176
+      },
+      {
+        "span": "artikel 5.4.10 lid 1 Sv",
+        "label": "BWB",
+        "start": 6238,
+        "end": 6261
+      },
+      {
+        "span": "artikel 552a Sv",
+        "label": "BWB",
+        "start": 6280,
+        "end": 6295
+      },
+      {
+        "span": "HR 5 april 2022, ECLI:NL:HR:2022:511",
+        "label": "ECLI",
+        "start": 6328,
+        "end": 6364
+      },
+      {
+        "span": "Richtlijn 2014/41/EU",
+        "label": "CELEX",
+        "start": 6586,
+        "end": 6606
+      },
+      {
+        "span": "artikel 5:4:4 Sv",
+        "label": "BWB",
+        "start": 9394,
+        "end": 9410
+      },
+      {
+        "span": "artikel 5.4.10, vierde lid, Sv",
+        "label": "BWB",
+        "start": 10003,
+        "end": 10033
+      }
+    ],
+    "n_annotations": 11
+  },
+  {
+    "ecli": "ECLI:NL:RBDHA:2026:3728",
+    "annotations": [
+      {
+        "span": "Meststoffenwet (Msw)",
+        "label": "BWB",
+        "start": 2130,
+        "end": 2150
+      },
+      {
+        "span": "artikel 3 van de Msw",
+        "label": "BWB",
+        "start": 5423,
+        "end": 5443
+      },
+      {
+        "span": "artikel 14 van de Msw",
+        "label": "BWB",
+        "start": 8059,
+        "end": 8080
+      },
+      {
+        "span": "artikel 6 van het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden (EVRM)",
+        "label": "BWB",
+        "start": 7827,
+        "end": 7931
+      },
+      {
+        "span": "artikel 5:41 van de Awb",
+        "label": "BWB",
+        "start": 14253,
+        "end": 14276
+      },
+      {
+        "span": "artikel 77, eerste lid, van de Urm",
+        "label": "BWB",
+        "start": 18632,
+        "end": 18666
+      },
+      {
+        "span": "artikel 64, tweede lid van de Urm",
+        "label": "BWB",
+        "start": 19991,
+        "end": 20024
+      },
+      {
+        "span": "artikel 124, eerste lid, van de Urm",
+        "label": "BWB",
+        "start": 20161,
+        "end": 20196
+      },
+      {
+        "span": "artikel 3 van de Msw",
+        "label": "BWB",
+        "start": 5423,
+        "end": 5443
+      },
+      {
+        "span": "artikel 47 van het Handvest van de grondrechten van de Europese Unie",
+        "label": "BWB",
+        "start": 23030,
+        "end": 23098
+      },
+      {
+        "span": "artikel 6 van het EVRM",
+        "label": "BWB",
+        "start": 23102,
+        "end": 23124
+      },
+      {
+        "span": "Kamerstukken II 1995/96, 24 782, nr. 3, p. 45",
+        "label": "OEP",
+        "start": 17158,
+        "end": 17203
+      },
+      {
+        "span": "College van Beroep voor het bedrijfsleven (het College) van 23 januari 2024",
+        "label": "ECLI",
+        "start": 6903,
+        "end": 6978
+      },
+      {
+        "span": "ECLI:NL:CBB:2024:25",
+        "label": "ECLI",
+        "start": 49098,
+        "end": 49117
+      },
+      {
+        "span": "ECLI:NL:RBROT:2005:AU7130",
+        "label": "ECLI",
+        "start": 49060,
+        "end": 49085
+      },
+      {
+        "span": "ECLI:NL:CBB:2025:610",
+        "label": "ECLI",
+        "start": 49221,
+        "end": 49241
+      },
+      {
+        "span": "ECLI:NL:RBOBR:2025:5319",
+        "label": "ECLI",
+        "start": 49402,
+        "end": 49425
+      },
+      {
+        "span": "ECLI:NL:CBB:2025:11",
+        "label": "ECLI",
+        "start": 49558,
+        "end": 49577
+      },
+      {
+        "span": "ECLI:NL:CBB:2025:7",
+        "label": "ECLI",
+        "start": 49691,
+        "end": 49709
+      },
+      {
+        "span": "ECLI:NL:CBB:2024:500",
+        "label": "ECLI",
+        "start": 49766,
+        "end": 49786
+      },
+      {
+        "span": "ECLI:NL:CBB:2024:660",
+        "label": "ECLI",
+        "start": 49848,
+        "end": 49868
+      }
+    ],
+    "n_annotations": 21
+  },
+  {
+    "ecli": "ECLI:NL:HR:1918:248",
+    "annotations": [
+      {
+        "span": "artikel 300 alinea 3 en 304, 1° van het Wetboek van Strafrecht",
+        "label": "BWB",
+        "start": 587,
+        "end": 649
+      },
+      {
+        "span": "artikelen 211, 221 en 223 van het Wetboek van Strafvordering",
+        "label": "BWB",
+        "start": 1028,
+        "end": 1088
+      },
+      {
+        "span": "artikel 300 van het Wetboek van Strafrecht",
+        "label": "BWB",
+        "start": 1105,
+        "end": 1147
+      }
+    ],
+    "n_annotations": 3
+  },
+  {
+    "ecli": "ECLI:NL:RBZLY:2011:BU6431",
+    "annotations": [
+      {
+        "span": "CAO-HBO",
+        "label": "BWB",
+        "start": 1904,
+        "end": 1911
+      }
+    ],
+    "n_annotations": 1
+  },
+  {
+    "ecli": "ECLI:NL:GHARL:2019:5346",
+    "annotations": [],
+    "n_annotations": 0
+  },
+  {
+    "ecli": "ECLI:NL:RBNHO:2025:2920",
+    "annotations": [
+      {
+        "span": "artikel 173, derde lid, van het DWU",
+        "label": "BWB",
+        "start": 6263,
+        "end": 6298
+      },
+      {
+        "span": "ECLI:NL:RBNHO:2024:188",
+        "label": "ECLI",
+        "start": 5997,
+        "end": 6019
+      },
+      {
+        "span": "artikel 173, derde lid, van het DWU",
+        "label": "BWB",
+        "start": 6818,
+        "end": 6853
+      },
+      {
+        "span": "arrest van het Hof van Justitie van 8 juni 2023 (Zess Zollner Electronic SRL, C640/21, ECLI:EU:2023:457)",
+        "label": "ECLI",
+        "start": 6868,
+        "end": 6972
+      },
+      {
+        "span": "ECLI:NL:RBNHO:2023:4266",
+        "label": "ECLI",
+        "start": 7036,
+        "end": 7059
+      },
+      {
+        "span": "artikel 64, tweede lid, van het DWU",
+        "label": "BWB",
+        "start": 8485,
+        "end": 8520
+      },
+      {
+        "span": "artikel 56, derde lid, van het DWU",
+        "label": "BWB",
+        "start": 8880,
+        "end": 8914
+      },
+      {
+        "span": "artikel 15 van het Besluit van de Raad van 26 maart 2012 betreffende de sluiting van de Regionale Conventie betreffende de pan-Euro-mediterrane preferentiële oorsprongsregels (2013/94/EU; het oorsprongsprotocol)",
+        "label": "CELEX",
+        "start": 9009,
+        "end": 9220
+      },
+      {
+        "span": "artikel 23, eerste lid, van het oorsprongsprotocol",
+        "label": "BWB",
+        "start": 9235,
+        "end": 9285
+      },
+      {
+        "span": "artikel 56, derde lid, van het DWU",
+        "label": "BWB",
+        "start": 9893,
+        "end": 9927
+      },
+      {
+        "span": "artikel 94, tweede lid, Uitvoeringsverordening (EU) 2015/2447",
+        "label": "CELEX",
+        "start": 11002,
+        "end": 11063
+      },
+      {
+        "span": "artikel 173, tweede lid, aanhef en onder c, van het DWU",
+        "label": "BWB",
+        "start": 11901,
+        "end": 11956
+      },
+      {
+        "span": "artikel 173, derde lid, van het DWU",
+        "label": "BWB",
+        "start": 11972,
+        "end": 12007
+      },
+      {
+        "span": "artikel 201, tweede lid, van het DWU",
+        "label": "BWB",
+        "start": 12369,
+        "end": 12405
+      },
+      {
+        "span": "artikel 56, derde lid, van het DWU",
+        "label": "BWB",
+        "start": 12658,
+        "end": 12692
+      },
+      {
+        "span": "artikel 173, derde lid, van het DWU",
+        "label": "BWB",
+        "start": 13398,
+        "end": 13433
+      },
+      {
+        "span": "ECLI:NL:RBNHO:2023:4266",
+        "label": "ECLI",
+        "start": 7036,
+        "end": 7059
+      }
+    ],
+    "n_annotations": 17
+  },
+  {
+    "ecli": "ECLI:NL:RBNNE:2025:3134",
+    "annotations": [
+      {
+        "span": "artikel 1 lid 4 van de Opiumwet",
+        "label": "BWB",
+        "start": 3215,
+        "end": 3246
+      },
+      {
+        "span": "artikel 3a van die wet",
+        "label": "BWB",
+        "start": 3542,
+        "end": 3564
+      },
+      {
+        "span": "artikel 10 van de Opiumwet",
+        "label": "BWB",
+        "start": 6624,
+        "end": 6650
+      },
+      {
+        "span": "artikel 3a, vijfde lid van de Opiumwet",
+        "label": "BWB",
+        "start": 7208,
+        "end": 7246
+      },
+      {
+        "span": "artikelen 348 en 350 van het Wetboek van Strafvordering",
+        "label": "BWB",
+        "start": 15094,
+        "end": 15149
+      },
+      {
+        "span": "artikel 6 van het Europees Verdrag voor de Rechten van de Mens",
+        "label": "BWB",
+        "start": 15219,
+        "end": 15281
+      },
+      {
+        "span": "art. 6 EVRM",
+        "label": "BWB",
+        "start": 15426,
+        "end": 15437
+      },
+      {
+        "span": "artikelen 348 en 350 Sv",
+        "label": "BWB",
+        "start": 18141,
+        "end": 18164
+      },
+      {
+        "span": "artikel 1 lid 4 van de Opiumwet",
+        "label": "BWB",
+        "start": 21104,
+        "end": 21135
+      },
+      {
+        "span": "artikel 10 van de Opiumwet",
+        "label": "BWB",
+        "start": 22889,
+        "end": 22915
+      },
+      {
+        "span": "artikel 2 onder A, B en C van de Opiumwet",
+        "label": "BWB",
+        "start": 24862,
+        "end": 24903
+      },
+      {
+        "span": "artikel 2 onder B en C van de Opiumwet",
+        "label": "BWB",
+        "start": 24999,
+        "end": 25037
+      },
+      {
+        "span": "artikel 2 onder A van de Opiumwet",
+        "label": "BWB",
+        "start": 25152,
+        "end": 25185
+      },
+      {
+        "span": "artikel 2 onder B van de Opiumwet",
+        "label": "BWB",
+        "start": 25295,
+        "end": 25328
+      },
+      {
+        "span": "artikel 10 van de Opiumwet",
+        "label": "BWB",
+        "start": 25420,
+        "end": 25446
+      },
+      {
+        "span": "artikel 6:2:10 Sv",
+        "label": "BWB",
+        "start": 28278,
+        "end": 28295
+      },
+      {
+        "span": "artikelen 45, 47, 57, 63 van het Wetboek van Strafrecht",
+        "label": "BWB",
+        "start": 28677,
+        "end": 28732
+      },
+      {
+        "span": "artikelen 2, 10, 10a van de Opiumwet",
+        "label": "BWB",
+        "start": 28739,
+        "end": 28775
+      },
+      {
+        "span": "HR 27 september 2022, ECLI:NL:HR:2022:1252",
+        "label": "ECLI",
+        "start": 30154,
+        "end": 30196
+      },
+      {
+        "span": "HR 27 september 2022, ECLI:NL:HR:2022:1252, r.o. 5.4.3",
+        "label": "ECLI",
+        "start": 30219,
+        "end": 30273
+      }
+    ],
+    "n_annotations": 20
+  },
+  {
+    "ecli": "ECLI:NL:OGEAA:2016:587",
+    "annotations": [
+      {
+        "span": "artikel 4 van de Landsverordening, houdende regeling van de invordering (AB 1988, GT 12)",
+        "label": "BWB",
+        "start": 1718,
+        "end": 1806
+      },
+      {
+        "span": "artikel 3 van de Landsverordening Invordering",
+        "label": "BWB",
+        "start": 1886,
+        "end": 1931
+      },
+      {
+        "span": "artikel 4 van de Landsverordening Invordering",
+        "label": "BWB",
+        "start": 1993,
+        "end": 2038
+      },
+      {
+        "span": "art 8 van de landsverordening",
+        "label": "BWB",
+        "start": 3364,
+        "end": 3393
+      },
+      {
+        "span": "Landsverordening Invordering",
+        "label": "BWB",
+        "start": 3425,
+        "end": 3453
+      },
+      {
+        "span": "Wetboek van Burgerlijke Rechtsvordering van Aruba",
+        "label": "BWB",
+        "start": 3520,
+        "end": 3569
+      },
+      {
+        "span": "artikel 13 van de Landsverordening Invordering",
+        "label": "BWB",
+        "start": 3615,
+        "end": 3661
+      },
+      {
+        "span": "artikel 4 derde lid Landsverordening Invordering",
+        "label": "BWB",
+        "start": 4005,
+        "end": 4053
+      },
+      {
+        "span": "artikel 438 Burgerlijke Rechtsvordering",
+        "label": "BWB",
+        "start": 4476,
+        "end": 4515
+      }
+    ],
+    "n_annotations": 9
   }
 ]
