@@ -1,0 +1,10 @@
+<View>
+
+  <View style="display:flex;align-items:start;gap:8px;flex-direction:column-reverse"><Text name="text" value="$tekst" granularity="word"/><Labels name="entity" toName="text" showInline="true">
+    <Label value="BWB" background="#f1fe34"/>
+    <Label value="ECLI" background="#619eff"/>
+    <Label value="CELEX" background="#62feb5"/>
+    <Label value="OEP"/>
+  </Labels></View>
+
+</View>
