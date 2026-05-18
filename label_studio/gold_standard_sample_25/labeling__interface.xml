@@ -7,4 +7,14 @@
     <Label value="OEP"/>
   </Labels></View>
 
+  
+
+  <Choices name="reftype" toName="text" perRegion="true" showInline="true" choice="single">
+
+    
+    
+    
+
+  <Choice value="explicit"/><Choice value="imp-local"/><Choice value="imp-ext"/><Choice value="imp-third-party"/></Choices>
+
 </View>
